@@ -17,10 +17,15 @@ h1 {
 }
 
 u
-{
+h1 {
+    font-size: 10vw; 
+
     color:blue
 }
 a
-{
+
+    h1 {
+    font-size: 10vw; 
+
 color:blue
 }
